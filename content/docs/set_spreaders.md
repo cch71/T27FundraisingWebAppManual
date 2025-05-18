@@ -19,7 +19,7 @@ To set spreaders, click the _Set Spreaders_ icon.
 
 ------------
 
-{{< figure src="/images/SetSpreadersStep1.png" caption="" >}}
+{{< figure src="images/SetSpreadersStep1.png" caption="" >}}
 
 ------------
 
@@ -29,7 +29,7 @@ coordinator.
 
 ------------
 
-{{< figure src="/images/SetSpreadersStep2.png" caption="" >}}
+{{< figure src="images/SetSpreadersStep2.png" caption="" >}}
 
 ------------
 
@@ -38,7 +38,7 @@ mulch for this order.
 
 ------------
 
-{{< figure src="/images/SetSpreadersStep3.png" caption="" >}}
+{{< figure src="images/SetSpreadersStep3.png" caption="" >}}
 
 ------------
 

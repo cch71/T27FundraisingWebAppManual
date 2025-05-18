@@ -13,13 +13,13 @@ toc: true
 
 Click the new order button found in the lower right corner of most screens.
 
-{{< figure src="/images/AddNewOrder.png" caption="Add New Order Button" >}}
+{{< figure src="images/AddNewOrder.png" caption="Add New Order Button" >}}
 
 ## Adding Customer Details
 
 Entires marked with an __*__ are required fields and must be populated.
 
-{{< figure src="/images/AddNewOrderStep1.png" caption="Customer Details" >}}
+{{< figure src="images/AddNewOrderStep1.png" caption="Customer Details" >}}
 
 _If a specific neighborhood is not listed, please email the [fundraiser chair](mailto:fundraiser@bsatroop27.us)_
 
@@ -27,12 +27,12 @@ _If a specific neighborhood is not listed, please email the [fundraiser chair](m
 
 Click the "Add Product Order" button.
 
-{{< figure src="/images/AddNewOrderStep2a.png" caption="Add Mulch Product" >}}
+{{< figure src="images/AddNewOrderStep2a.png" caption="Add Mulch Product" >}}
 
 Enter the delivery date, number of mulch bags to order, and the number of bags
 to spread.
 
-{{< figure src="/images/AddNewOrderStep2b.png" caption="" >}}
+{{< figure src="images/AddNewOrderStep2b.png" caption="" >}}
 
 _The number of bags to spread is independent of bags ordered.  If the customer has
 existing bags that they would like spread it is possible that the number of bags
@@ -44,20 +44,20 @@ After entering the information click the __"Submit"__ button.
 
 Click the "Add Donation" button.
 
-{{< figure src="/images/AddNewOrderStep3a.png" caption="Add Donation" >}}
+{{< figure src="images/AddNewOrderStep3a.png" caption="Add Donation" >}}
 
 Enter the amount the customer is donating.
 
 After entering the information click the __"Submit"__ button.
 
-{{< figure src="/images/AddNewOrderStep3b.png" caption="" >}}
+{{< figure src="images/AddNewOrderStep3b.png" caption="" >}}
 
 ## Adding Cash/Check Details and Submit
 
 The system will automatically sum up the total amount.  The customer may choose
 to pay in check or cash or a combination of the two.
 
-{{< figure src="/images/AddNewOrderStep4.png" caption="Reconcile Money" >}}
+{{< figure src="images/AddNewOrderStep4.png" caption="Reconcile Money" >}}
 
 Once the cash and/or check amounts have been enter and the "Total Paid" amount
 matches the "Total Due" amount then click the __"Submit"__ button and the order

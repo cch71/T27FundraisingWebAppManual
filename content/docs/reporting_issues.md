@@ -16,7 +16,7 @@ If you have an issue with the Fundraising system try these steps.
 3. If none of those fix the problem then you can let the developer know by using
    the _Report Issue_ menu item.
 
-{{< figure src="/images/ReportingIssues.png" caption="" >}}
+{{< figure src="images/ReportingIssues.png" caption="" >}}
 
 If you have an idea of how to make this system better please feel free to use
 this _Report Issue_ method to make the request.

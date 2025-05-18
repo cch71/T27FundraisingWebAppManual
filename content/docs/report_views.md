@@ -14,7 +14,7 @@ toc: true
 Click on the __"Reports"__ tab in the navigation bar to navigate to the _Reports
 View_ page.
 
-{{< figure src="/images/ReportsPage.png" caption="" >}}
+{{< figure src="images/ReportsPage.png" caption="" >}}
 
 ## Reports View Page
 
@@ -39,7 +39,7 @@ From this report orders may be:
 - If order is past delivery due day then there is a _View_ option
 - Ability to _Set Spreaders_ if the order contains bags that need spreading.
 
-{{< figure src="/images/ReportSelectionPage.png" caption="" >}}
+{{< figure src="images/ReportSelectionPage.png" caption="" >}}
 
 ### Full Report
 
@@ -51,7 +51,7 @@ report to download.
 
 Downloading a report:
 
-{{< figure src="/images/ReportDownload.png" caption="Report Download Example" >}}
+{{< figure src="images/ReportDownload.png" caption="Report Download Example" >}}
 
 __Pro-Tip: Download the orders list before turning in your orders.
 This will serve as a ready reference for subsequent years.__
@@ -60,11 +60,11 @@ This will serve as a ready reference for subsequent years.__
 
 Show the location where sales have occurred for the entirety of the season.
 
-{{< figure src="/images/ReportSalesMap.png" caption="Sales Map" >}}
+{{< figure src="images/ReportSalesMap.png" caption="Sales Map" >}}
 
 One of the neighborhoods zoomed in.
 
-{{< figure src="/images/ReportSalesMapZoomedIn.png" caption="Sales Map (Zoomed In)" >}}
+{{< figure src="images/ReportSalesMapZoomedIn.png" caption="Sales Map (Zoomed In)" >}}
 SetSpreadersStep1
 __Pro-Tip: Use this map to plan your sales. Also refer to the delivery zone map
 in your binder to ensure that mulch can be delivered.__
@@ -74,7 +74,7 @@ in your binder to ensure that mulch can be delivered.__
 This report helps the seller to know what the expected amount due for each stage
 of the selling process.
 
-{{< figure src="/images/ReportMoneyCollection.png" caption="Money Collection Report" >}}
+{{< figure src="images/ReportMoneyCollection.png" caption="Money Collection Report" >}}
 
 ### Spreading Jobs Report
 

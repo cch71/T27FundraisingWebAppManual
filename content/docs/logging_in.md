@@ -12,4 +12,4 @@ toc: true
 
 Navigate to: [https://fundraiser.bsatroop27.us](https://fundraiser.bsatroop27.us)
 
-{{< figure src="/images/LoginScreen.png" caption="Login Screen" >}}
+{{< figure src="images/LoginScreen.png" caption="Login Screen" >}}

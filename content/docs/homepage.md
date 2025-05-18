@@ -9,4 +9,4 @@ draft: false
 toc: true
 ---
 
-{{< figure src="/images/Homepage.png" caption="Landing Page" >}}
+{{< figure src="images/Homepage.png" caption="Landing Page" >}}

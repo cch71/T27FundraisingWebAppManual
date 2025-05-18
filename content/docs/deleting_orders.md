@@ -17,7 +17,7 @@ you wish to delete.  Click the _trash_ icon.
 
 ------------
 
-{{< figure src="/images/DeleteOrderStep1.png" caption="" >}}
+{{< figure src="images/DeleteOrderStep1.png" caption="" >}}
 
 ------------
 
@@ -26,7 +26,7 @@ be removed from the system.
 
 ------------
 
-{{< figure src="/images/DeleteOrderStep2.png" caption="" >}}
+{{< figure src="images/DeleteOrderStep2.png" caption="" >}}
 
 ------------
 

@@ -17,7 +17,7 @@ you wish to edit.  Click the _pencil_ icon.
 
 ------------
 
-{{< figure src="/images/EditOrderStep1.png" caption="" >}}
+{{< figure src="images/EditOrderStep1.png" caption="" >}}
 
 ------------
 
@@ -25,7 +25,7 @@ Next change what needs to be changed in the order from.
 
 ------------
 
-{{< figure src="/images/EditOrderStep2.png" caption="" >}}
+{{< figure src="images/EditOrderStep2.png" caption="" >}}
 
 ------------
 
