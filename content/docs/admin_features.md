@@ -194,3 +194,8 @@ __IF YOU DO NOT SEE THE BELOW POPUP CONTACT APP DEV (Craig Hamilton).__
 
 _After this point only an Administrator may change any of the
 orders, spreaders, etc... in the system._
+
+To confirm the fundraiser thinks it is closed, go to the _Home_ page and
+the banner should be changed to say this:
+
+{{< figure src="images/admin/AdminCloseoutBanner.png" >}}
