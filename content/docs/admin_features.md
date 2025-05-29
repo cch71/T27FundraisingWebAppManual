@@ -183,5 +183,14 @@ as breakdown of amounts for the Troop.
 
 When all the numbers appear to be correct, click the __Save and Release Funds__
 button to finalize and tell the system that the fundraiser is complete for the
-season.  After this point only an Administrator may change any of the
-orders, spreaders, etc... in the system.
+season.
+
+This popup dlg should display once it is done submitting.  Do not navigate away
+until this dlg appears or an error dlg shows up.
+
+{{< figure src="images/admin/AdminCloseoutSubmittedDlg.png" >}}
+
+__IF YOU DO NOT SEE THE BELOW POPUP CONTACT APP DEV (Craig Hamilton).__
+
+_After this point only an Administrator may change any of the
+orders, spreaders, etc... in the system._
